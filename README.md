@@ -1,4 +1,4 @@
-# Scientific-Calculator-
+# Scientific-Calculator
 <ul>
   <li>Scientific Calculator developed in JavaScript implementing Shunting Yard Algorithm. </li>
   <li>Performs all arithmetic and scientific operations. </li>
